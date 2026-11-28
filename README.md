@@ -1,13 +1,7 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:3B0A45,100:FE428E&height=260&section=header&text=Makit%20Jenamin&fontSize=72&fontColor=FE428E&stroke=FFFFFF&strokeWidth=1&fontAlignY=42&desc=%E2%9C%A6%20FullStack%20Software%20Engineer%20%E2%9C%A6&descAlignY=64&descSize=20&animation=twinkling" alt="header" width="100%" />
-</p>
+<!-- ═══════════════════════════  HERO GIF  ═══════════════════════════ -->
+<img alt="Ba quả cà chua dưới lớp film grain analog" src="./assets/hero.gif" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=620&height=45&lines=%F0%9F%94%AD+First+Principles+Thinking;%E2%9A%A1+Building+scalable+Web+%26+Mobile+apps;%F0%9F%A7%A0+Exploring+System+Architecture+%26+AI;%E2%98%95+Code+%E2%80%A2+Coffee+%E2%80%A2+Repeat" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">MAKIT JENAMIN</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MakitJenamin&label=Profile%20views&color=FE428E&style=flat-square" alt="profile views" />
@@ -27,23 +21,24 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 👨‍💻 About Me
+## About
 
-```typescript
-const makit: Engineer = {
-  role: "FullStack Software Engineer",
-  location: "Vietnam 🇻🇳",
-  mindset: "First Principles Thinking — break it down, build it up",
+hello.
 
-  currentlyBuilding: "Scalable full-stack Web & Mobile applications",
-  currentlyLearning: ["System Architecture", "Microservices", "AI Integration"],
-  openToCollab: ["Open-source projects", "Innovative Web/Mobile products"],
-  askMeAbout: ["JS/TS", "React", "Next.js", "Node.js", "NestJS", "Databases"],
+i'm makit, a fullstack software engineer in vietnam.\
+i build web and mobile apps that need to scale.\
+i like to break problems down to first principles, then build them back up.
 
-  fuel: ["☕ Coffee", "🎧 Lo-fi", "🐛 Hard bugs"],
-  funFact: "I debug faster after the second cup of coffee",
-};
-```
+i mostly write javascript and typescript: react, next.js and react native on the front,\
+node.js and nestjs on the back.
+
+right now i'm learning system architecture, microservices and ai integration.\
+i'm open to working on open-source projects and new web or mobile products.\
+ask me about js/ts, react, next.js, node.js, nestjs or databases.
+
+i debug faster after the second cup of coffee.
+
+-- makit
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
